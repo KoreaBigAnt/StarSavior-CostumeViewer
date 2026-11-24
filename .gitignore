@@ -1,0 +1,11 @@
+build/
+package/
+*.zip
+package-manifest-*.json
+viewer-runtime/
+profile/
+Exports/
+ChestSettings/
+*.log
+__pycache__/
+*.pyc
